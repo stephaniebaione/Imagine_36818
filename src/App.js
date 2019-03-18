@@ -53,7 +53,7 @@ const poem = [
   ],
   [
     {key: 28, word: "I hope", offset: {x: -363, y: 71}, img: require('./images/ihope.PNG')},
-    {key: 29, word: 'someday', offset: {x: 134, y: 74}, img: require('./images/someday.PNG'), val: 1},
+    {key: 29, word: 'someday', offset: {x: 134, y: -74}, img: require('./images/someday.PNG'), val: 1},
     {key: 30, word: 'you will', offset: {x: -196, y: 30}, img: require('./images/youwill.PNG')},
     {key: 31, word: 'join us', offset: {x: 164, y: -40}, img: require('./images/joinus.PNG')},
   ],

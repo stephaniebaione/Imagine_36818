@@ -14,7 +14,8 @@ p {
     background: #fff;
     padding: 1px 4px;
     transition: opacity 10s ease;
-    cursor: pointer,
+    cursor: pointer;
+    user-select: none;
 }
 
 .word img {
