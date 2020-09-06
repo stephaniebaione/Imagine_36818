@@ -5,7 +5,7 @@
   "homepage": "https://stephaniebaione.github.io/Imagine_36818",
   "dependencies": {
     "classnames": "^2.2.6",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.5.3",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.14",
     "lodash.template": "^4.5.0",
